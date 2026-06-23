@@ -1,0 +1,6 @@
+{
+  "name": "Cartoon Slide Show Animator",
+  "description": "Create, animate with custom character rigging and frame-by-frame timelines, and export custom cartoon scenes directly to Google Slides and Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
